@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MyFirstTests">
+    <test name="ExampleTest_01">
+        <classes>
+            <class name="lesson19.TestSet_1"/>
+        </classes>
+    </test>
+    <test name="ExampleTest_02">
+        <classes>
+            <class name="lesson19.TestSet_2"/>
+        </classes>
+    </test>
+</suite>
